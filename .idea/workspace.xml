@@ -43,22 +43,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.B2525">
+  <component name="RunManager" selected="Application.B25304">
     <configuration name="B10430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="W1.B10430" />
-      <module name="AlgorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="W1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B11382" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W1.B11382" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
@@ -83,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B18108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W1.B18108" />
+    <configuration name="B2480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W2.B2480" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W1.*" />
+          <option name="PATTERN" value="W2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B25304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W2.B25304" />
+      <module name="AlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="W2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B25304" />
+        <item itemvalue="Application.B2480" />
         <item itemvalue="Application.B2525" />
         <item itemvalue="Application.B1546" />
         <item itemvalue="Application.B10430" />
-        <item itemvalue="Application.B18108" />
-        <item itemvalue="Application.B11382" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,10 @@
       <workItem from="1701159869186" duration="146000" />
       <workItem from="1701244738383" duration="803000" />
       <workItem from="1701327955935" duration="809000" />
-      <workItem from="1701330155036" duration="1179000" />
+      <workItem from="1701330155036" duration="1460000" />
+      <workItem from="1701425540508" duration="620000" />
+      <workItem from="1701518780309" duration="56000" />
+      <workItem from="1701674845093" duration="1689000" />
     </task>
     <servers />
   </component>
