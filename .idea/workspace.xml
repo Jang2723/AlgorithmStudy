@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7dc244-cb00-4078-b96b-d145eaa61582" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/W2/B10807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/W2/B25314.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,26 +45,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution181906">
-    <configuration name="B2480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2.B2480" />
+  <component name="RunManager" selected="Application.B10807">
+    <configuration name="B10807" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W2.B10807" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="W2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B2525" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W1.B2525" />
-      <module name="AlgorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="W1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution181908" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W2.Solution181908" />
+      <module name="AlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="W2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B10807" />
+        <item itemvalue="Application.Solution181908" />
         <item itemvalue="Application.Solution181906" />
         <item itemvalue="Application.Solution181886" />
         <item itemvalue="Application.B25304" />
-        <item itemvalue="Application.B2480" />
-        <item itemvalue="Application.B2525" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +136,10 @@
       <workItem from="1701330155036" duration="1460000" />
       <workItem from="1701425540508" duration="620000" />
       <workItem from="1701518780309" duration="56000" />
-      <workItem from="1701674845093" duration="4777000" />
+      <workItem from="1701674845093" duration="5239000" />
+      <workItem from="1701688625385" duration="2502000" />
+      <workItem from="1701736507195" duration="81000" />
+      <workItem from="1701758539453" duration="1550000" />
     </task>
     <servers />
   </component>
