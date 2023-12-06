@@ -1,5 +1,5 @@
 package W2;
-//https://school.programmers.co.kr/learn/courses/30/lessons/181884
+// https://school.programmers.co.kr/learn/courses/30/lessons/181884
 // n보다 커질 떄까지 더하기
 public class Solution181884 {
     public int solution(int[] numbers, int n) {

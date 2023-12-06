@@ -1,5 +1,5 @@
 package W2;
-
+// https://www.acmicpc.net/problem/10807
 import java.util.Scanner;
 
 // 총 n개의 정수가 주여졌을 때, 정수 v가 몇개인지 구하는 프로그램을 작성

@@ -1,5 +1,5 @@
 package W2;
-
+//https://www.acmicpc.net/problem/10988
 import java.util.Scanner;
 
 // 알파벳 소문자로만 이루어진 단어가 주어진다.

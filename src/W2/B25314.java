@@ -1,7 +1,7 @@
 package W2;
 // 4바이트는 long int, 12바이트는 long long long int라고 생각할 떄
 // n바이트는 어떤 출력형태를 갖는가?
-
+// https://www.acmicpc.net/problem/25314
 import java.util.Scanner;
 
 public class B25314 {
