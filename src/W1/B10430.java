@@ -1,5 +1,5 @@
 package W1;
-
+// https://www.acmicpc.net/problem/10430
 import java.util.Scanner;
 
 /*(A+B)%C는 ((A%C) + (B%C))%C 와 같을까?
