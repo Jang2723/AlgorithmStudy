@@ -1,7 +1,7 @@
 package W2;
 
 import java.util.Scanner;
-
+// https://www.acmicpc.net/problem/25304
 /*
 구매한 각 물건의 가격과 개수
 구매한 물건들의 총 금액
