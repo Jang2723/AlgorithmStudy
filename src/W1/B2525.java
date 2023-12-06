@@ -1,7 +1,7 @@
 package W1;
 
 import java.util.Scanner;
-
+// https://www.acmicpc.net/problem/2525
 /*
 첫째 줄에 현재 시각 입력  A (0 ≤ A ≤ 23) 와 분 B (0 ≤ B ≤ 59)
 두 번째 줄에는 요리하는 데 필요한 시간 C (0 ≤ C ≤ 1,000)가 분 단위로 주어진다.
