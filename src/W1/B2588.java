@@ -1,7 +1,7 @@
 package W1;
 
 import java.util.Scanner;
-
+// https://www.acmicpc.net/problem/2588
 public class B2588{
 
     public static void main(String[] args) {
