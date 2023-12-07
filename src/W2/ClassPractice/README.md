@@ -1,9 +1,9 @@
 ## week2 practice
 
 12/04
-- [Solution181886](ClassPractice/Solution181886.java) p
-- [Solution181906](ClassPractice/Solution181906.java) p
-- [Solution181908](ClassPractice/Solution181908.java) p
+- [Solution181886](ClassPractice/Solution181886.java) 
+- [Solution181906](ClassPractice/Solution181906.java) 
+- [Solution181908](ClassPractice/Solution181908.java) 
 
 12/05
 - [B10988](B10988.java) - 심화1 
