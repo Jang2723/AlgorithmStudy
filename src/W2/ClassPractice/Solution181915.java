@@ -1,4 +1,4 @@
-package W2;
+package W2.ClassPractice;
 // https://school.programmers.co.kr/learn/courses/30/lessons/181915
 // 글자 이어 붙여 문자열 만들기
 /* 문자열 my_string과 정수 배열 index_list가 매개변수로 주어집니다.

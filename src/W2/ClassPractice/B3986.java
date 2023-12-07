@@ -1,4 +1,4 @@
-package W2;
+package W2.ClassPractice;
 //  https://www.acmicpc.net/problem/3986
 // 좋은 단어
 /*

@@ -1,4 +1,4 @@
-package W2;
+package W2.ClassPractice;
 // https://school.programmers.co.kr/learn/courses/30/lessons/181914
 // 9로 나누기
 // 음이아닌 정수를 9로 나눈 나머지는 그 정수의 각 자리 숫자의 합을 9로 나눈 나머지와 같다.

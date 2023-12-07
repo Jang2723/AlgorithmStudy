@@ -1,4 +1,4 @@
-package W2;
+package W2.ClassPractice;
 // https://school.programmers.co.kr/learn/courses/30/lessons/181886
 /* 접두사인지 확인하기
 어떤 문자열에 대해서 접두사는 특정 인덱스까지의 문자열을 의미합니다.

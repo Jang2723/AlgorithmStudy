@@ -5,15 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7dc244-cb00-4078-b96b-d145eaa61582" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/W2/B10809.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W2/B10810.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W2/B10813.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W2/B3986.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W2/Solution176963.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W2/Solution181915.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W2/Solution181920.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/W2/ClassPractice/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/B10809.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/B10809.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/B10815.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/B10815.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/B10988.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/B10988.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/B3986.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/B3986.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/W2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/Solution176963.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution176963.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/Solution181883.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181883.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/Solution181884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181884.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/Solution181886.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181886.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/Solution181906.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181906.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/Solution181908.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181908.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/Solution181914.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181914.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/Solution181915.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181915.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W2/Solution181920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181920.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +62,11 @@
 }</component>
   <component name="RunManager" selected="Application.B3986">
     <configuration name="B10809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2.B10809" />
+      <option name="MAIN_CLASS_NAME" value="W2.ClassPractice.B10809" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W2.*" />
+          <option name="PATTERN" value="W2.ClassPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,7 +79,7 @@
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W2.*" />
+          <option name="PATTERN" value="W2.ClassPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,7 +92,7 @@
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W2.*" />
+          <option name="PATTERN" value="W2.ClassPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="B10815" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2.B10815" />
+      <option name="MAIN_CLASS_NAME" value="W2.ClassPractice.B10815" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W2.*" />
+          <option name="PATTERN" value="W2.ClassPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="B3986" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2.B3986" />
+      <option name="MAIN_CLASS_NAME" value="W2.ClassPractice.B3986" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W2.*" />
+          <option name="PATTERN" value="W2.ClassPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,6 +158,7 @@
       <workItem from="1701821477658" duration="859000" />
       <workItem from="1701838176413" duration="13180000" />
       <workItem from="1701931909327" duration="6451000" />
+      <workItem from="1701938957148" duration="1153000" />
     </task>
     <servers />
   </component>

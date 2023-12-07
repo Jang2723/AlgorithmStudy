@@ -1,4 +1,4 @@
-package W2;
+package W2.ClassPractice;
 // https://school.programmers.co.kr/learn/courses/30/lessons/181920
 // 카운트 업
 public class Solution181920 {

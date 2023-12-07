@@ -1,4 +1,4 @@
-package W2;
+package W2.ClassPractice;
 // https://school.programmers.co.kr/learn/courses/30/lessons/181883
 /* 정수 배열 arr, 2차원 정수 배열 queries
 queries의 원소는 각각 하나의 query를 나타내며, [s, e] 꼴입니다.

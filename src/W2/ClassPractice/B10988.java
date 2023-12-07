@@ -1,4 +1,4 @@
-package W2;
+package W2.ClassPractice;
 //https://www.acmicpc.net/problem/10988
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package W2;
+package W2.ClassPractice;
 
 import java.io.*;
 import java.util.Arrays;
