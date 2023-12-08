@@ -21,7 +21,29 @@
 - [Solution176963](Solution176963.java) 
 - [B3986](B3986.java) 
 
----- 풀 예정 ----
+12/08
+- [카드뭉치](Solution159994.java)
+- [최댓값](B2566.java)
 
-- [최댓값]
-  https://www.acmicpc.net/problem/2566
+---- 풀 예정 ----
+  콜라츠 수열 만들기
+  https://school.programmers.co.kr/learn/courses/30/lessons/181919
+
+
+## 난이도 중
+덩치
+https://www.acmicpc.net/problem/7568
+
+수학은 비대면강의입니다.
+https://www.acmicpc.net/problem/19532
+
+색종이
+https://www.acmicpc.net/problem/2563  -> 2차원 배열
+
+
+## 난이도 상 -> BF
+퇴사
+https://www.acmicpc.net/problem/14501
+
+연산자 끼워넣기
+https://www.acmicpc.net/problem/14888
