@@ -28,7 +28,7 @@
 ---- 풀 예정 ----
 
 - 콜라츠 수열 만들기
-  https://school.programmers.co.kr/learn/courses/30/lessons/181919
+- https://school.programmers.co.kr/learn/courses/30/lessons/181919
 
 
 ## 난이도 중
