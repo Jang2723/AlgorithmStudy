@@ -22,11 +22,12 @@
 - [B3986](B3986.java) 
 
 12/08
-- [카드뭉치](Solution159994.java)
-- [최댓값](B2566.java)
+- [Solution159994](Solution159994.java)
+- [B2566](B2566.java)
 
 ---- 풀 예정 ----
-  콜라츠 수열 만들기
+
+- 콜라츠 수열 만들기
   https://school.programmers.co.kr/learn/courses/30/lessons/181919
 
 
