@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff7dc244-cb00-4078-b96b-d145eaa61582" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/W2/ClassPractice/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/B10809.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/B10809.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/B10815.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/B10815.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/B10988.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/B10988.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/B3986.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/B3986.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/Solution176963.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution176963.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/Solution181883.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181883.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/Solution181884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181884.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/Solution181886.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181886.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/Solution181906.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181906.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/Solution181908.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181908.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/Solution181914.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181914.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/Solution181915.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181915.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W2/Solution181920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W2/ClassPractice/Solution181920.java" afterDir="false" />
+    <list default="true" id="ff7dc244-cb00-4078-b96b-d145eaa61582" name="Changes" comment="12/18">
+      <change afterPath="$PROJECT_DIR$/src/W4/B1316.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/W4/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,16 +45,17 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.B3986">
-    <configuration name="B10809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2.ClassPractice.B10809" />
+  <component name="RunManager" selected="Application.B1316">
+    <configuration name="B11719" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W3.B11719" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W2.ClassPractice.*" />
+          <option name="PATTERN" value="W3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B10810" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2.B10810" />
+    <configuration name="B11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W3.B11720" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W2.ClassPractice.*" />
+          <option name="PATTERN" value="W3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B10813" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2.B10813" />
+    <configuration name="B11721" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W3.B11721" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W2.ClassPractice.*" />
+          <option name="PATTERN" value="W3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B10815" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2.ClassPractice.B10815" />
+    <configuration name="B1316" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W4.B1316" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W2.ClassPractice.*" />
+          <option name="PATTERN" value="W4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +102,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B3986" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2.ClassPractice.B3986" />
+    <configuration name="B14501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W3.extraStudy.B14501" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W2.ClassPractice.*" />
+          <option name="PATTERN" value="W3.extraStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2563" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W3.extraStudy.B2563" />
+      <module name="AlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="W3.extraStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W4.B2941" />
+      <module name="AlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="W4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B3986" />
-        <item itemvalue="Application.B10809" />
-        <item itemvalue="Application.B10813" />
-        <item itemvalue="Application.B10810" />
-        <item itemvalue="Application.B10815" />
+        <item itemvalue="Application.B1316" />
+        <item itemvalue="Application.B2941" />
+        <item itemvalue="Application.B14501" />
+        <item itemvalue="Application.B11719" />
+        <item itemvalue="Application.B11721" />
       </list>
     </recent_temporary>
   </component>
@@ -159,10 +174,119 @@
       <workItem from="1701838176413" duration="13180000" />
       <workItem from="1701931909327" duration="6451000" />
       <workItem from="1701938957148" duration="1153000" />
+      <workItem from="1701940334678" duration="1006000" />
+      <workItem from="1702022309804" duration="3516000" />
+      <workItem from="1702026012345" duration="475000" />
+      <workItem from="1702108791590" duration="3410000" />
+      <workItem from="1702252270786" duration="621000" />
+      <workItem from="1702367957299" duration="2209000" />
+      <workItem from="1702370709521" duration="854000" />
+      <workItem from="1702453854543" duration="3763000" />
+      <workItem from="1702537399436" duration="4139000" />
+      <workItem from="1702622901921" duration="5308000" />
+      <workItem from="1702863617674" duration="16000" />
+      <workItem from="1702863749171" duration="171000" />
+      <workItem from="1702883666754" duration="6214000" />
+      <workItem from="1702969260312" duration="2710000" />
     </task>
+    <task id="LOCAL-00001" summary="12/08 Algorithm">
+      <option name="closed" value="true" />
+      <created>1702025859935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702025859935</updated>
+    </task>
+    <task id="LOCAL-00002" summary="README UPDATE">
+      <option name="closed" value="true" />
+      <created>1702026364450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702026364450</updated>
+    </task>
+    <task id="LOCAL-00003" summary="README UPDATE">
+      <option name="closed" value="true" />
+      <created>1702026490885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702026490885</updated>
+    </task>
+    <task id="LOCAL-00004" summary="12/12">
+      <option name="closed" value="true" />
+      <created>1702370203895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702370203895</updated>
+    </task>
+    <task id="LOCAL-00005" summary="12/12">
+      <option name="closed" value="true" />
+      <created>1702371593809</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702371593809</updated>
+    </task>
+    <task id="LOCAL-00006" summary="12/13">
+      <option name="closed" value="true" />
+      <created>1702457134757</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702457134757</updated>
+    </task>
+    <task id="LOCAL-00007" summary="12/14">
+      <option name="closed" value="true" />
+      <created>1702541713091</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702541713092</updated>
+    </task>
+    <task id="LOCAL-00008" summary="12/15">
+      <option name="closed" value="true" />
+      <created>1702630074733</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702630074733</updated>
+    </task>
+    <task id="LOCAL-00009" summary="12/18">
+      <option name="closed" value="true" />
+      <created>1702889828714</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702889828715</updated>
+    </task>
+    <task id="LOCAL-00010" summary="12/18">
+      <option name="closed" value="true" />
+      <created>1702889951662</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702889951662</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12/08 Algorithm" />
+    <MESSAGE value="README UPDATE" />
+    <MESSAGE value="12/12" />
+    <MESSAGE value="12/13" />
+    <MESSAGE value="12/14" />
+    <MESSAGE value="12/15" />
+    <MESSAGE value="12/18" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/18" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
