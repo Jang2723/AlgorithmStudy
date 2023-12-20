@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7dc244-cb00-4078-b96b-d145eaa61582" name="Changes" comment="12/20">
-      <change afterPath="$PROJECT_DIR$/src/W4/ExtraStudy/B2566.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W4/ExtraStudy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/W4/ExtraStudy/B11050.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W4/ExtraStudy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/W4/ExtraStudy/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +48,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.B2566">
-    <configuration name="B1316" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W4.B1316" />
+  <component name="RunManager" selected="Application.B11050">
+    <configuration name="B11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W4.ExtraStudy.B11050" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W4.*" />
+          <option name="PATTERN" value="W4.ExtraStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B14501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W3.extraStudy.B14501" />
+    <configuration name="B1316" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W4.B1316" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W3.extraStudy.*" />
+          <option name="PATTERN" value="W4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B11050" />
         <item itemvalue="Application.B2566" />
         <item itemvalue="Application.B25206" />
         <item itemvalue="Application.B1316" />
         <item itemvalue="Application.B2941" />
-        <item itemvalue="Application.B14501" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,7 @@
       <workItem from="1702863749171" duration="171000" />
       <workItem from="1702883666754" duration="6214000" />
       <workItem from="1702969260312" duration="3983000" />
-      <workItem from="1703054760636" duration="4408000" />
+      <workItem from="1703054760636" duration="5046000" />
     </task>
     <task id="LOCAL-00001" summary="12/08 Algorithm">
       <option name="closed" value="true" />
@@ -267,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703058372531</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="12/20">
+      <option name="closed" value="true" />
+      <created>1703059814870</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703059814871</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
