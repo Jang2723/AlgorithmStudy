@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff7dc244-cb00-4078-b96b-d145eaa61582" name="Changes" comment="12/18">
-      <change afterPath="$PROJECT_DIR$/src/W4/B1316.java" afterDir="false" />
+    <list default="true" id="ff7dc244-cb00-4078-b96b-d145eaa61582" name="Changes" comment="12/19">
+      <change afterPath="$PROJECT_DIR$/src/W4/B25206.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/W4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/W4/README.md" afterDir="false" />
     </list>
@@ -49,35 +49,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.B1316">
+  <component name="RunManager" selected="Application.B25206">
     <configuration name="B11719" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="W3.B11719" />
-      <module name="AlgorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="W3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W3.B11720" />
-      <module name="AlgorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="W3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B11721" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W3.B11721" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
@@ -115,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2563" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W3.extraStudy.B2563" />
+    <configuration name="B25206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W4.B25206" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W3.extraStudy.*" />
+          <option name="PATTERN" value="W4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B25206" />
         <item itemvalue="Application.B1316" />
         <item itemvalue="Application.B2941" />
         <item itemvalue="Application.B14501" />
         <item itemvalue="Application.B11719" />
-        <item itemvalue="Application.B11721" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +161,8 @@
       <workItem from="1702863617674" duration="16000" />
       <workItem from="1702863749171" duration="171000" />
       <workItem from="1702883666754" duration="6214000" />
-      <workItem from="1702969260312" duration="2710000" />
+      <workItem from="1702969260312" duration="3983000" />
+      <workItem from="1703054760636" duration="2740000" />
     </task>
     <task id="LOCAL-00001" summary="12/08 Algorithm">
       <option name="closed" value="true" />
@@ -269,7 +244,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702889951662</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="12/19">
+      <option name="closed" value="true" />
+      <created>1702975268844</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702975268844</updated>
+    </task>
+    <task id="LOCAL-00012" summary="12/19">
+      <option name="closed" value="true" />
+      <created>1702975302756</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702975302756</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +274,8 @@
     <MESSAGE value="12/14" />
     <MESSAGE value="12/15" />
     <MESSAGE value="12/18" />
-    <option name="LAST_COMMIT_MESSAGE" value="12/18" />
+    <MESSAGE value="12/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/19" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
