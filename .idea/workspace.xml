@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff7dc244-cb00-4078-b96b-d145eaa61582" name="Changes" comment="12/21">
-      <change afterPath="$PROJECT_DIR$/src/W4/ExtraStudy/B1924.java" afterDir="false" />
+    <list default="true" id="ff7dc244-cb00-4078-b96b-d145eaa61582" name="Changes" comment="12/23">
+      <change afterPath="$PROJECT_DIR$/src/W4/ExtraStudy/B2747.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/W4/ExtraStudy/Memoization.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/W4/ExtraStudy/top-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/W4/ExtraStudy/동적프로그래밍(B2747).md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/W4/ExtraStudy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/W4/ExtraStudy/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/W4/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,22 +38,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.B1924">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LG\Desktop\techit-project\AlgorithmStudy\src\W4\ExtraStudy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.B2747">
     <configuration name="B11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="W4.ExtraStudy.B11050" />
       <module name="AlgorithmStudy" />
@@ -103,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2566" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W4.ExtraStudy.B2566" />
+    <configuration name="B2747" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W4.ExtraStudy.B2747" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B2747" />
         <item itemvalue="Application.B1924" />
         <item itemvalue="Application.B1259" />
         <item itemvalue="Application.B2475" />
         <item itemvalue="Application.B11050" />
-        <item itemvalue="Application.B2566" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +174,7 @@
       <workItem from="1702969260312" duration="3983000" />
       <workItem from="1703054760636" duration="6607000" />
       <workItem from="1703144608379" duration="1125000" />
-      <workItem from="1703334206266" duration="951000" />
+      <workItem from="1703334206266" duration="4249000" />
     </task>
     <task id="LOCAL-00001" summary="12/08 Algorithm">
       <option name="closed" value="true" />
@@ -295,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703145757820</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="12/23">
+      <option name="closed" value="true" />
+      <created>1703335319185</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703335319185</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +329,8 @@
     <MESSAGE value="12/19" />
     <MESSAGE value="12/20" />
     <MESSAGE value="12/21" />
-    <option name="LAST_COMMIT_MESSAGE" value="12/21" />
+    <MESSAGE value="12/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/23" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
