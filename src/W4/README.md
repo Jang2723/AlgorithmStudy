@@ -15,6 +15,9 @@
 12/23
 - [추가 공부](ExtraStudy/README.md) - 동적 프로그래밍
 
+12/24
+- [추가 공부](ExtraStudy/README.md)
+
 ---- 풀 예정 ----
 ## 난이도 상 -> BF
 
