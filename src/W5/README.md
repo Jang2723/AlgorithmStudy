@@ -10,4 +10,6 @@
 12/27
 - [B1075](B1075.java) 
 
+12/28
+- [B1010](B1010.java)
 - [추가 공부](ExtraStudy/README.md)
