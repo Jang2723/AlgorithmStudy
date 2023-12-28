@@ -1,4 +1,4 @@
-package W5;
+package W5.ExtraStudy;
 
 // https://www.acmicpc.net/problem/1010
 // 다리 놓기 - 다이나믹 프로그래밍-실버5
