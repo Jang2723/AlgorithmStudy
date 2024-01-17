@@ -65,3 +65,6 @@
 - [1193](/src/W7/extra_study/B1193.java)
 - [2869](/src/W7/extra_study/B2869.java)
 - [11653](/src/W7/extra_study/B11653.java)
+- [9506](/src/W7/B9506.java)
+- [1292](/src/W7/extra_study/B1292.java)
+- [4796](/src/W7/extra_study/B4796.java)
