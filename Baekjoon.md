@@ -76,3 +76,6 @@
 - [1977](/src/W7/extra_study/B1977.java)
 - [10821](/src/W7/extra_study/B10821.java)
 - [1357](/src/W7/extra_study/B1357.java)
+- [1085](/src/W8/B1085.java)
+- [27323](/src/W8/extra_study/B27323.java)
+- [B1159](/src/W8/extra_study/B1159.java)

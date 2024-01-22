@@ -11,3 +11,4 @@
 - [2차원 가변길이 배열의 크기](src/W5/ArrayLength/arrSize.md)
 ### [week6](src/W6/README.md)
 ### [week7](src/W7/README.md)
+### [week8](src/W8/README.md)
