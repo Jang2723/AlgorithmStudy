@@ -78,4 +78,6 @@
 - [1357](/src/W7/extra_study/B1357.java)
 - [1085](/src/W8/B1085.java)
 - [27323](/src/W8/extra_study/B27323.java)
-- [B1159](/src/W8/extra_study/B1159.java)
+- [1159](/src/W8/extra_study/B1159.java)
+- [3009](/src/W8/B3009.java)
+- [15894](/src/W8/extra_study/B15894.java)
