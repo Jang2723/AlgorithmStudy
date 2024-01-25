@@ -83,3 +83,5 @@
 - [15894](/src/W8/extra_study/B15894.java)
 - [9063](/src/W8/B9063.java)
 - [10101](/src/W8/extra_study/B10101.java)
+- [5073](/src/W8/B5073.java)
+- [14215](/src/W8/extra_study/B14215.java)
