@@ -65,6 +65,7 @@
 - [1193](/src/W7/extra_study/B1193.java)
 - [2869](/src/W7/extra_study/B2869.java)
 - [11653](/src/W7/extra_study/B11653.java)
+- [25305](/src/W7/extra_study/B25305.java)
 - [9506](/src/W7/B9506.java)
 - [1292](/src/W7/extra_study/B1292.java)
 - [4796](/src/W7/extra_study/B4796.java)
@@ -90,3 +91,5 @@
 - [1018](/src/W10/B1018.java)
 - [1436](/src/W10/B1436.java)
 - [2750](/src/W10/B2750.java)
+- [2839](/src/W11/B2839.java)
+- [2751](/src/W11/B2751.java)
