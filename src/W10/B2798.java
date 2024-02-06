@@ -1,4 +1,4 @@
-package W9;
+package W10;
 // https://www.acmicpc.net/problem/2798
 // 블랙잭 -브루트포스- 브2
 

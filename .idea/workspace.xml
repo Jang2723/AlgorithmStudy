@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff7dc244-cb00-4078-b96b-d145eaa61582" name="Changes" comment="12/23, 동적 프로그래밍" />
+    <list default="true" id="ff7dc244-cb00-4078-b96b-d145eaa61582" name="Changes" comment="02/02 readme update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,34 +32,36 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LG/Desktop/techit-project/spring boot/jpa-skeleton&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LG\Desktop\techit-project\AlgorithmStudy\src\W5\ArrayLength" />
       <recent name="C:\Users\LG\Desktop\techit-project\AlgorithmStudy\src\W4\ExtraStudy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B2747">
-    <configuration name="B11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W4.ExtraStudy.B11050" />
+  <component name="RunManager" selected="Application.B2750">
+    <configuration name="B1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W9.B1018" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W4.ExtraStudy.*" />
+          <option name="PATTERN" value="W9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B1259" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W4.B1259" />
+    <configuration name="B1436" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W9.B1436" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W4.*" />
+          <option name="PATTERN" value="W9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B1924" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W4.ExtraStudy.B1924" />
+    <configuration name="B2231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W9.B2231" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W4.ExtraStudy.*" />
+          <option name="PATTERN" value="W9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2475" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W4.ExtraStudy.B2475" />
+    <configuration name="B2750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W9.B2750" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W4.ExtraStudy.*" />
+          <option name="PATTERN" value="W9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2747" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W4.ExtraStudy.B2747" />
+    <configuration name="B2798" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W9.B2798" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W4.ExtraStudy.*" />
+          <option name="PATTERN" value="W9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B2747" />
-        <item itemvalue="Application.B1924" />
-        <item itemvalue="Application.B1259" />
-        <item itemvalue="Application.B2475" />
-        <item itemvalue="Application.B11050" />
+        <item itemvalue="Application.B2750" />
+        <item itemvalue="Application.B1436" />
+        <item itemvalue="Application.B1018" />
+        <item itemvalue="Application.B2231" />
+        <item itemvalue="Application.B2798" />
       </list>
     </recent_temporary>
   </component>
@@ -166,172 +170,462 @@
       <workItem from="1702969260312" duration="3983000" />
       <workItem from="1703054760636" duration="6607000" />
       <workItem from="1703144608379" duration="1125000" />
-      <workItem from="1703334206266" duration="4556000" />
+      <workItem from="1703334206266" duration="4713000" />
+      <workItem from="1703341852744" duration="153000" />
+      <workItem from="1703342406316" duration="131000" />
+      <workItem from="1703423228460" duration="1955000" />
+      <workItem from="1703509091174" duration="5263000" />
+      <workItem from="1703574122903" duration="7578000" />
+      <workItem from="1703593198594" duration="156000" />
+      <workItem from="1703660579884" duration="7845000" />
+      <workItem from="1703746865634" duration="5286000" />
+      <workItem from="1703834195837" duration="5806000" />
+      <workItem from="1704001182708" duration="28000" />
+      <workItem from="1704118954253" duration="5925000" />
+      <workItem from="1704265350353" duration="7105000" />
+      <workItem from="1704358279291" duration="1591000" />
+      <workItem from="1704363362959" duration="161000" />
+      <workItem from="1704438604905" duration="8228000" />
+      <workItem from="1704956577653" duration="103000" />
+      <workItem from="1705301259456" duration="7005000" />
+      <workItem from="1705388030468" duration="7455000" />
+      <workItem from="1705475622093" duration="5743000" />
+      <workItem from="1705560854848" duration="7003000" />
+      <workItem from="1705647083619" duration="7095000" />
+      <workItem from="1705906367878" duration="6703000" />
+      <workItem from="1705992579800" duration="4289000" />
+      <workItem from="1706080086412" duration="4035000" />
+      <workItem from="1706169770112" duration="2706000" />
+      <workItem from="1706598268438" duration="4094000" />
+      <workItem from="1706685559741" duration="4517000" />
+      <workItem from="1706776244427" duration="1445000" />
+      <workItem from="1706863934108" duration="1050000" />
     </task>
-    <task id="LOCAL-00001" summary="12/08 Algorithm">
+    <task id="LOCAL-00033" summary="12/28 extra study">
       <option name="closed" value="true" />
-      <created>1702025859935</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+      <created>1703749910814</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
       <option name="project" value="LOCAL" />
-      <updated>1702025859935</updated>
+      <updated>1703749910814</updated>
     </task>
-    <task id="LOCAL-00002" summary="README UPDATE">
+    <task id="LOCAL-00034" summary="12/28 extra study">
       <option name="closed" value="true" />
-      <created>1702026364450</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+      <created>1703752332872</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
       <option name="project" value="LOCAL" />
-      <updated>1702026364450</updated>
+      <updated>1703752332872</updated>
     </task>
-    <task id="LOCAL-00003" summary="README UPDATE">
+    <task id="LOCAL-00035" summary="12/29">
       <option name="closed" value="true" />
-      <created>1702026490885</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+      <created>1703837728313</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1702026490885</updated>
+      <updated>1703837728313</updated>
     </task>
-    <task id="LOCAL-00004" summary="12/12">
+    <task id="LOCAL-00036" summary="12/29 extra study">
       <option name="closed" value="true" />
-      <created>1702370203895</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+      <created>1703839334867</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
       <option name="project" value="LOCAL" />
-      <updated>1702370203895</updated>
+      <updated>1703839334867</updated>
     </task>
-    <task id="LOCAL-00005" summary="12/12">
+    <task id="LOCAL-00037" summary="12/29 extra study">
       <option name="closed" value="true" />
-      <created>1702371593809</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+      <created>1703840086214</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
       <option name="project" value="LOCAL" />
-      <updated>1702371593809</updated>
+      <updated>1703840086214</updated>
     </task>
-    <task id="LOCAL-00006" summary="12/13">
+    <task id="LOCAL-00038" summary="01/01">
       <option name="closed" value="true" />
-      <created>1702457134757</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+      <created>1704120992094</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
       <option name="project" value="LOCAL" />
-      <updated>1702457134757</updated>
+      <updated>1704120992094</updated>
     </task>
-    <task id="LOCAL-00007" summary="12/14">
+    <task id="LOCAL-00039" summary="01/01">
       <option name="closed" value="true" />
-      <created>1702541713091</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+      <created>1704121114866</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
-      <updated>1702541713092</updated>
+      <updated>1704121114866</updated>
     </task>
-    <task id="LOCAL-00008" summary="12/15">
+    <task id="LOCAL-00040" summary="01/01 README update">
       <option name="closed" value="true" />
-      <created>1702630074733</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+      <created>1704121164262</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
       <option name="project" value="LOCAL" />
-      <updated>1702630074733</updated>
+      <updated>1704121164262</updated>
     </task>
-    <task id="LOCAL-00009" summary="12/18">
+    <task id="LOCAL-00041" summary="01/02">
       <option name="closed" value="true" />
-      <created>1702889828714</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+      <created>1704202908416</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
       <option name="project" value="LOCAL" />
-      <updated>1702889828715</updated>
+      <updated>1704202908416</updated>
     </task>
-    <task id="LOCAL-00010" summary="12/18">
+    <task id="LOCAL-00042" summary="01/03">
       <option name="closed" value="true" />
-      <created>1702889951662</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+      <created>1704271205214</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
       <option name="project" value="LOCAL" />
-      <updated>1702889951662</updated>
+      <updated>1704271205214</updated>
     </task>
-    <task id="LOCAL-00011" summary="12/19">
+    <task id="LOCAL-00043" summary="01/03 extra study">
       <option name="closed" value="true" />
-      <created>1702975268844</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+      <created>1704290757429</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
       <option name="project" value="LOCAL" />
-      <updated>1702975268844</updated>
+      <updated>1704290757429</updated>
     </task>
-    <task id="LOCAL-00012" summary="12/19">
+    <task id="LOCAL-00044" summary="week5 readme update">
       <option name="closed" value="true" />
-      <created>1702975302756</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+      <created>1704290788152</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
       <option name="project" value="LOCAL" />
-      <updated>1702975302756</updated>
+      <updated>1704290788152</updated>
     </task>
-    <task id="LOCAL-00013" summary="12/20">
+    <task id="LOCAL-00045" summary="01/04">
       <option name="closed" value="true" />
-      <created>1703058372531</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+      <created>1704363507360</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
       <option name="project" value="LOCAL" />
-      <updated>1703058372531</updated>
+      <updated>1704363507360</updated>
     </task>
-    <task id="LOCAL-00014" summary="12/20">
+    <task id="LOCAL-00046" summary="01/05">
       <option name="closed" value="true" />
-      <created>1703059814870</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+      <created>1704440196635</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
       <option name="project" value="LOCAL" />
-      <updated>1703059814871</updated>
+      <updated>1704440196635</updated>
     </task>
-    <task id="LOCAL-00015" summary="12/20">
+    <task id="LOCAL-00047" summary="01/15">
       <option name="closed" value="true" />
-      <created>1703062101943</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+      <created>1705303716279</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
       <option name="project" value="LOCAL" />
-      <updated>1703062101943</updated>
+      <updated>1705303716279</updated>
     </task>
-    <task id="LOCAL-00016" summary="12/21">
+    <task id="LOCAL-00048" summary="01/15 extra study">
       <option name="closed" value="true" />
-      <created>1703145757820</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+      <created>1705307060152</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
       <option name="project" value="LOCAL" />
-      <updated>1703145757820</updated>
+      <updated>1705307060152</updated>
     </task>
-    <task id="LOCAL-00017" summary="12/23">
+    <task id="LOCAL-00049" summary="01/15 readme update">
       <option name="closed" value="true" />
-      <created>1703335319185</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
+      <created>1705307095945</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
       <option name="project" value="LOCAL" />
-      <updated>1703335319185</updated>
+      <updated>1705307095945</updated>
     </task>
-    <task id="LOCAL-00018" summary="12/23, 동적 프로그래밍">
+    <task id="LOCAL-00050" summary="01/15 extra study update">
       <option name="closed" value="true" />
-      <created>1703338859477</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
+      <created>1705308310668</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
       <option name="project" value="LOCAL" />
-      <updated>1703338859477</updated>
+      <updated>1705308310670</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00051" summary="01/15 update">
+      <option name="closed" value="true" />
+      <created>1705308504320</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1705308504321</updated>
+    </task>
+    <task id="LOCAL-00052" summary="01/16">
+      <option name="closed" value="true" />
+      <created>1705389466990</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1705389466990</updated>
+    </task>
+    <task id="LOCAL-00053" summary="01/16 update">
+      <option name="closed" value="true" />
+      <created>1705393666254</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1705393666254</updated>
+    </task>
+    <task id="LOCAL-00054" summary="01/16 readme update">
+      <option name="closed" value="true" />
+      <created>1705393726585</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1705393726585</updated>
+    </task>
+    <task id="LOCAL-00055" summary="01/16 extra study update">
+      <option name="closed" value="true" />
+      <created>1705394866011</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1705394866011</updated>
+    </task>
+    <task id="LOCAL-00056" summary="01/16 extra study update">
+      <option name="closed" value="true" />
+      <created>1705395613899</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1705395613899</updated>
+    </task>
+    <task id="LOCAL-00057" summary="01/17">
+      <option name="closed" value="true" />
+      <created>1705476566409</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1705476566409</updated>
+    </task>
+    <task id="LOCAL-00058" summary="01/17 extra study">
+      <option name="closed" value="true" />
+      <created>1705480999034</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1705480999034</updated>
+    </task>
+    <task id="LOCAL-00059" summary="01/17 readme update">
+      <option name="closed" value="true" />
+      <created>1705481425087</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1705481425087</updated>
+    </task>
+    <task id="LOCAL-00060" summary="01/18">
+      <option name="closed" value="true" />
+      <created>1705563883516</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1705563883516</updated>
+    </task>
+    <task id="LOCAL-00061" summary="01/18 extra study">
+      <option name="closed" value="true" />
+      <created>1705567619208</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1705567619208</updated>
+    </task>
+    <task id="LOCAL-00062" summary="01/18 readme update">
+      <option name="closed" value="true" />
+      <created>1705568513381</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1705568513381</updated>
+    </task>
+    <task id="LOCAL-00063" summary="01/19">
+      <option name="closed" value="true" />
+      <created>1705649022813</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1705649022814</updated>
+    </task>
+    <task id="LOCAL-00064" summary="01/19 extra study">
+      <option name="closed" value="true" />
+      <created>1705654420207</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1705654420208</updated>
+    </task>
+    <task id="LOCAL-00065" summary="01/19 readme update">
+      <option name="closed" value="true" />
+      <created>1705654464836</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1705654464836</updated>
+    </task>
+    <task id="LOCAL-00066" summary="01/22">
+      <option name="closed" value="true" />
+      <created>1705911377202</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1705911377203</updated>
+    </task>
+    <task id="LOCAL-00067" summary="01/22 extra study">
+      <option name="closed" value="true" />
+      <created>1705913127128</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1705913127129</updated>
+    </task>
+    <task id="LOCAL-00068" summary="01/22 readme update">
+      <option name="closed" value="true" />
+      <created>1705913174429</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1705913174429</updated>
+    </task>
+    <task id="LOCAL-00069" summary="01/23">
+      <option name="closed" value="true" />
+      <created>1705996325218</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1705996325219</updated>
+    </task>
+    <task id="LOCAL-00070" summary="01/23 extra study">
+      <option name="closed" value="true" />
+      <created>1705996852318</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1705996852318</updated>
+    </task>
+    <task id="LOCAL-00071" summary="01/23 readme update">
+      <option name="closed" value="true" />
+      <created>1705996881508</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1705996881509</updated>
+    </task>
+    <task id="LOCAL-00072" summary="01/24">
+      <option name="closed" value="true" />
+      <created>1706082121176</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1706082121177</updated>
+    </task>
+    <task id="LOCAL-00073" summary="01/24 extra study &amp; readme update">
+      <option name="closed" value="true" />
+      <created>1706083631097</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1706083631098</updated>
+    </task>
+    <task id="LOCAL-00074" summary="01/25">
+      <option name="closed" value="true" />
+      <created>1706171642977</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1706171642980</updated>
+    </task>
+    <task id="LOCAL-00075" summary="01/25 extra study">
+      <option name="closed" value="true" />
+      <created>1706172539878</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1706172539878</updated>
+    </task>
+    <task id="LOCAL-00076" summary="01/30 algorithm study &amp; readme">
+      <option name="closed" value="true" />
+      <created>1706602417562</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1706602417563</updated>
+    </task>
+    <task id="LOCAL-00077" summary="01/31 algorithm study &amp; readme">
+      <option name="closed" value="true" />
+      <created>1706690085992</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1706690085992</updated>
+    </task>
+    <task id="LOCAL-00078" summary="02/01">
+      <option name="closed" value="true" />
+      <created>1706777229581</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1706777229582</updated>
+    </task>
+    <task id="LOCAL-00079" summary="02/02">
+      <option name="closed" value="true" />
+      <created>1706864411550</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1706864411551</updated>
+    </task>
+    <task id="LOCAL-00080" summary="02/02">
+      <option name="closed" value="true" />
+      <created>1706864433630</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1706864433630</updated>
+    </task>
+    <task id="LOCAL-00081" summary="02/02 readme update">
+      <option name="closed" value="true" />
+      <created>1706864858985</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1706864858985</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="12/08 Algorithm" />
-    <MESSAGE value="README UPDATE" />
-    <MESSAGE value="12/12" />
-    <MESSAGE value="12/13" />
-    <MESSAGE value="12/14" />
-    <MESSAGE value="12/15" />
-    <MESSAGE value="12/18" />
-    <MESSAGE value="12/19" />
-    <MESSAGE value="12/20" />
-    <MESSAGE value="12/21" />
-    <MESSAGE value="12/23" />
-    <MESSAGE value="12/23, 동적 프로그래밍" />
-    <option name="LAST_COMMIT_MESSAGE" value="12/23, 동적 프로그래밍" />
+    <MESSAGE value="01/16 extra study update" />
+    <MESSAGE value="01/17" />
+    <MESSAGE value="01/17 extra study" />
+    <MESSAGE value="01/17 readme update" />
+    <MESSAGE value="01/18" />
+    <MESSAGE value="01/18 extra study" />
+    <MESSAGE value="01/18 readme update" />
+    <MESSAGE value="01/19" />
+    <MESSAGE value="01/19 extra study" />
+    <MESSAGE value="01/19 readme update" />
+    <MESSAGE value="01/22" />
+    <MESSAGE value="01/22 extra study" />
+    <MESSAGE value="01/22 readme update" />
+    <MESSAGE value="01/23" />
+    <MESSAGE value="01/23 extra study" />
+    <MESSAGE value="01/23 readme update" />
+    <MESSAGE value="01/24" />
+    <MESSAGE value="01/24 extra study &amp; readme update" />
+    <MESSAGE value="01/25" />
+    <MESSAGE value="01/25 extra study" />
+    <MESSAGE value="01/30 algorithm study &amp; readme" />
+    <MESSAGE value="01/31 algorithm study &amp; readme" />
+    <MESSAGE value="02/01" />
+    <MESSAGE value="02/02" />
+    <MESSAGE value="02/02 readme update" />
+    <option name="LAST_COMMIT_MESSAGE" value="02/02 readme update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

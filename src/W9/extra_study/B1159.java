@@ -1,4 +1,4 @@
-package W8.extra_study;
+package W9.extra_study;
 // https://www.acmicpc.net/problem/1159
 // 농구경기 - 브2
 /*  성의 첫 글자가 같은 선수 5명을 선발하려고 한다.

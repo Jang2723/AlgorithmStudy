@@ -1,4 +1,4 @@
-package W9;
+package W10;
 // https://www.acmicpc.net/problem/2231
 // 분해합 - 브2
 

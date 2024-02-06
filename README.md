@@ -11,5 +11,6 @@
 - [2차원 가변길이 배열의 크기](src/W5/ArrayLength/arrSize.md)
 ### [week6](src/W6/README.md)
 ### [week7](src/W7/README.md)
-### [week8](src/W8/README.md)
-### [week9](src/W9/README.md) - 브루트포스
+### week8 -> 개인 미션 진행(게시판 만들기)으로 스터디 x
+### [week9](src/W9/README.md)
+### [week10](src/W10/README.md) - 브루트포스
